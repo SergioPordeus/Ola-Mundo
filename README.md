@@ -1,3 +1,4 @@
 # Olá, Mundo!
  Meu Primeiro Repositorio do curso Git e GitHub
- Primeira Alt.
+ Primeira Alteração
+ Alterado direto no GitHub
